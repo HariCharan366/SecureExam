@@ -1,0 +1,502 @@
+[
+  {
+    "id": "1788238382544-zhs2on",
+    "studentName": "Test",
+    "email": "testing",
+    "username": "testing",
+    "score": 0,
+    "total": 40,
+    "percentage": 0,
+    "correct": 0,
+    "wrong": 0,
+    "unanswered": 40,
+    "timeTaken": "0:03",
+    "timeTakenSeconds": 3,
+    "submittedAt": "2026-09-01 04:53:02",
+    "dateTime": "2026-09-01T04:53:02.544Z",
+    "status": "Failed",
+    "warnings": 0,
+    "answers": [
+      {
+        "question": "Which traversal visits the root before its subtrees?",
+        "options": [
+          "Preorder",
+          "Reverse order",
+          "Inorder",
+          "Postorder"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "What is the index of the first element of an array in C?",
+        "options": [
+          "0",
+          "1",
+          "-1",
+          "Depends on the array"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which format specifier is used to print an integer in C?",
+        "options": [
+          "%f",
+          "%d",
+          "%c",
+          "%s"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "Which format specifier is used to print a character?",
+        "options": [
+          "%c",
+          "%s",
+          "%d",
+          "%f"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which method removes the last element from a JavaScript array?",
+        "options": [
+          "deleteLast()",
+          "remove()",
+          "pop()",
+          "shift()"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 2,
+        "isCorrect": false
+      },
+      {
+        "question": "Which keyword can be used to declare a variable in JavaScript?",
+        "options": [
+          "define",
+          "let",
+          "variable",
+          "declare"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "Which operator is used to access the value stored at a pointer address?",
+        "options": [
+          "*",
+          "#",
+          "&",
+          "@"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which operator is used for exponentiation in Python?",
+        "options": [
+          "^^",
+          "**",
+          "^",
+          "//"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "What is method overloading?",
+        "options": [
+          "Deleting methods",
+          "Same method name with different parameters",
+          "Same variable with different values",
+          "Hiding all methods"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "Which keyword is used to explicitly call the parent class constructor?",
+        "options": [
+          "super",
+          "this",
+          "base",
+          "parent"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "What is an object?",
+        "options": [
+          "A data type",
+          "A compiler",
+          "A function only",
+          "An instance of a class"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 3,
+        "isCorrect": false
+      },
+      {
+        "question": "Which relationship represents a \"has-a\" relationship?",
+        "options": [
+          "Polymorphism",
+          "Inheritance",
+          "Composition",
+          "Overloading"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 2,
+        "isCorrect": false
+      },
+      {
+        "question": "Which symbol is commonly used before a destructor name in C++?",
+        "options": [
+          "~",
+          "@",
+          "!",
+          "#"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which Python data structure automatically removes duplicate values?",
+        "options": [
+          "Set",
+          "Tuple",
+          "List",
+          "Dictionary"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which method adds an element to the end of a JavaScript array?",
+        "options": [
+          "push()",
+          "append()",
+          "insert()",
+          "add()"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which data structure has nodes connected through edges?",
+        "options": [
+          "Queue",
+          "Stack",
+          "Graph",
+          "Array"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 2,
+        "isCorrect": false
+      },
+      {
+        "question": "Which function is automatically called when an object is destroyed?",
+        "options": [
+          "Destructor",
+          "Finalizer",
+          "Constructor",
+          "Delete function"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which keyword is used to declare a constant variable in C?",
+        "options": [
+          "fixed",
+          "final",
+          "const",
+          "constant"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 2,
+        "isCorrect": false
+      },
+      {
+        "question": "Which symbol is used for scope resolution in C++?",
+        "options": [
+          ".",
+          ":",
+          "::",
+          "->"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 2,
+        "isCorrect": false
+      },
+      {
+        "question": "Which keyword is used to define an abstract class?",
+        "options": [
+          "base",
+          "abstract",
+          "interface",
+          "virtual"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "Which operator is used to release memory allocated using new?",
+        "options": [
+          "free",
+          "delete",
+          "clear",
+          "remove"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "Which method converts a string to lowercase in Python?",
+        "options": [
+          "tolower()",
+          "small()",
+          "lowercase()",
+          "lower()"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 3,
+        "isCorrect": false
+      },
+      {
+        "question": "Which function is automatically called when an object is created?",
+        "options": [
+          "Constructor",
+          "Main function",
+          "Static function",
+          "Destructor"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which language is primarily used to add interactivity to web pages?",
+        "options": [
+          "SQL",
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "Which keyword declares a constant in JavaScript?",
+        "options": [
+          "fixed",
+          "const",
+          "final",
+          "constant"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "Which OOP principle protects data from direct access?",
+        "options": [
+          "Encapsulation",
+          "Compilation",
+          "Polymorphism",
+          "Inheritance"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which C++ feature supports multiple inheritance?",
+        "options": [
+          "Functions",
+          "Operators",
+          "Classes",
+          "Variables"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 2,
+        "isCorrect": false
+      },
+      {
+        "question": "Which HTTP status code generally indicates \"Not Found\"?",
+        "options": [
+          "404",
+          "500",
+          "200",
+          "301"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which OOP concept focuses on showing only essential information?",
+        "options": [
+          "Abstraction",
+          "Compilation",
+          "Inheritance",
+          "Overloading"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which data structure has a root node and child nodes?",
+        "options": [
+          "Array",
+          "Queue",
+          "Stack",
+          "Tree"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 3,
+        "isCorrect": false
+      },
+      {
+        "question": "Which Java collection does not allow duplicate elements?",
+        "options": [
+          "ArrayList",
+          "Set",
+          "Vector",
+          "List"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "Which sorting algorithm uses a divide-and-conquer approach?",
+        "options": [
+          "Linear Search",
+          "Selection Sort",
+          "Merge Sort",
+          "Bubble Sort"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 2,
+        "isCorrect": false
+      },
+      {
+        "question": "Which header file contains string functions such as strlen()?",
+        "options": [
+          "stdio.h",
+          "string.h",
+          "stdlib.h",
+          "stringlib.h"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "Which keyword is used to define a structure in C?",
+        "options": [
+          "class",
+          "struct",
+          "structure",
+          "record"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 1,
+        "isCorrect": false
+      },
+      {
+        "question": "Which operator is used to dynamically allocate memory in C++?",
+        "options": [
+          "alloc",
+          "create",
+          "new",
+          "malloc"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 2,
+        "isCorrect": false
+      },
+      {
+        "question": "Which function is commonly used to display a message in the browser console?",
+        "options": [
+          "print()",
+          "display()",
+          "console.log()",
+          "writeConsole()"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 2,
+        "isCorrect": false
+      },
+      {
+        "question": "Which keyword declares that a method may throw exceptions?",
+        "options": [
+          "catch",
+          "try",
+          "throw",
+          "throws"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 3,
+        "isCorrect": false
+      },
+      {
+        "question": "What does API stand for?",
+        "options": [
+          "Advanced Programming Input",
+          "Automated Program Interface",
+          "Application Processing Internet",
+          "Application Programming Interface"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 3,
+        "isCorrect": false
+      },
+      {
+        "question": "Which keyword is used to create an interface in Java?",
+        "options": [
+          "interface",
+          "abstract",
+          "Interface",
+          "implements"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      },
+      {
+        "question": "Which OOP concept promotes code reuse through parent-child relationships?",
+        "options": [
+          "Inheritance",
+          "Encapsulation",
+          "Exception handling",
+          "Abstraction"
+        ],
+        "selectedIndex": null,
+        "correctIndex": 0,
+        "isCorrect": false
+      }
+    ]
+  }
+]

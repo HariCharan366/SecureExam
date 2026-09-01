@@ -1,0 +1,14 @@
+{
+  "name": "secure-exam",
+  "version": "1.0.0",
+  "description": "SecureExam Online Examination Platform with JSON File Storage for Student Results",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
